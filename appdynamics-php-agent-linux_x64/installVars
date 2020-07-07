@@ -1,0 +1,7 @@
+APPD_CONF_ACCOUNT_NAME='stouetesting'
+APPD_CONF_ACCESS_KEY='cmi9bz2xilqs'
+APPD_CONF_CONTROLLER_HOST='stouetesting.saas.appdynamics.com'
+APPD_CONF_CONTROLLER_PORT='443'
+APPD_CONF_SSL_ENABLED='true'
+APPD_CONF_APP='Moodle-Test_2'
+APPD_CONF_TIER='Test_Web_Tier_2'
